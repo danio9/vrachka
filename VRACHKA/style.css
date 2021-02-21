@@ -1,0 +1,20 @@
+.senter {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+#jeko {
+    position: relative;
+    left: 220px;
+}
+#iliqn {
+    position: relative;
+    left: 30px;
+}
+#iliqn_beshe_prav {
+    position: relative;
+    left: 250px;
+    
+}
+
